@@ -1,4 +1,7 @@
 #React Native CRUD Front
+Para ejecutar este repositorio es necesario clonar el back
+https://github.com/Mariosay/React_Native_CRUD_Backend.git
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
